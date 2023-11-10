@@ -1,1 +1,1 @@
-https://github.com/Srinija-TA/mle-training-repo.git
+https://github.com/Srinija-TA/repo.git
